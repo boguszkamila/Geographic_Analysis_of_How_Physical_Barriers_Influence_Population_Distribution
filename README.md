@@ -13,6 +13,6 @@ The study explores how natural and man-made obstacles such as mountains, urban i
      
 2. Principal component analysis
 3. Clustering  
-   - DBSCAN, selecting hyperparameters using the nearest neighbor method and silhouette score
+   - DBSCAN, selecting hyperparameters using silhouette score
    - K-Means and Spectral Clustering, evaluation of the clusters number by using silhouette score
   
